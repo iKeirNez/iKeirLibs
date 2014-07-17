@@ -7,6 +7,11 @@
     <artifactId>iKeirLibs-parent</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <bukkit.version>1.7.10-R0.1-SNAPSHOT</bukkit.version>
+    </properties>
+
     <modules>
         <module>core</module>
         <module>bukkit</module>
